@@ -29,6 +29,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![MobX](https://img.shields.io/badge/State-MobX-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Back-end:
 
@@ -61,4 +62,4 @@
 <li>Docker</li>
 <li>Kafka</li>
 
-![CodeWars](https://www.codewars.com/users/Lucker_hns)
+![CodeWars]([https://www.codewars.com/users/Lucker_hns](https://www.codewars.com/users/Lucker_hns/badges/large))
