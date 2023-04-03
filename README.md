@@ -7,6 +7,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <h5>В своих изучениях и постоянной практике, я делаю упор на такие навыки - как :</h5>
 
@@ -26,7 +28,7 @@
 ![SCSS](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![MobX](https://img.shields.io/badge?style=for-the-badge&logo=material-ui&logoColor=white)
+![MobX](https://img.shields.io/badge/Mobx?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Back-end:
 
@@ -41,9 +43,7 @@
 <ul>
   <li>Схемы данных</li>
   <li>Диаграммы классов</li>
-  <li>Визуальной части сайта при помощи</li>
-  
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <li>Макета визуальной части сайта</li>
 </ul>
 
 ### Есть опыт в создании:
