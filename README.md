@@ -1,4 +1,4 @@
-<h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 1 год и 2 месяца.</h1>
+<h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 1 год и 2 месяца, а также я являюсь студентом 3 курса</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=F7E111&width=435&lines=%D0%AF+Web+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+!)](https://git.io/typing-svg)
 
@@ -50,4 +50,13 @@
   <li>Сборки Webpack и ESBuild с нуля</li> 
   <li>Конструктора-сайта на чистом JavaScript</li> 
   <li>RestAPI + Crud с нуля</li> 
-  <li>Авторизации по JsonWebToken и запись в PostgreSQL</li>
+  <li>Авторизации по JsonWebToken с отправкой кода подтверждения на почту и запись в PostgreSQL</li>
+  <li>Типизированного небольшого сервиса при помощи TypeScript </li>
+  
+### Прикасался к таким технологиям - как:
+<li>Tailwind CSS</li>
+<li>NextJS</li>
+<li>NestJS</li>
+<li>Ant Design</li>
+<li>Docker</li>
+<li>Kafka</li>
