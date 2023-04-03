@@ -8,7 +8,7 @@
 + 🚀 Рефакторинг и качество кода.
 + ⏱ Постоянное изучение новых технологий.
 
-(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Мой стэк технологий:
   
