@@ -58,7 +58,9 @@
 
   <li>Function & Class Components, Main hooks</li>
   <li>Умею работать с массивами и их методами, объектами, циклами</li>
+  <li>JavaScript - ES7+</li>
   <li>Есть хорошие знания по CSS</li>
+
 
 ### Из личных качеств могу отметить: 
 
