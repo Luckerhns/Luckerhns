@@ -62,4 +62,4 @@
 <li>Docker</li>
 <li>Kafka</li>
 
-![CodeWars]([https://www.codewars.com/users/Lucker_hns](https://www.codewars.com/users/Lucker_hns/badges/large))
+![CodeWars](https://www.codewars.com/users/Lucker_hns/badges/large)
