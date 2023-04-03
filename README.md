@@ -50,10 +50,22 @@
   <li>Нескольких плагинов на чистом JavaScript</li> 
   <li>Сборки Webpack и ESBuild с нуля</li> 
   <li>Конструктора-сайта на чистом JavaScript</li> 
-  <li>RestAPI + Crud с нуля</li> 
+  <li>RestAPI + CRUD с нуля</li> 
   <li>Авторизации по JsonWebToken с отправкой кода подтверждения на почту и запись в PostgreSQL</li>
   <li>Типизированного небольшого сервиса при помощи TypeScript </li>
   
+### Уровень знаний Front-end: 
+
+  <li>Function & Class Components, Main hooks</li>
+  <li>Умею работать с массивами и их методами, объектами, циклами</li>
+  <li>Есть хорошие знания по CSS</li>
+
+### Из личных качеств могу отметить: 
+
+  <li>Дружелюбность</li>
+  <li>Пунктуальность</li>
+  <li>Ответственность</li>
+
 ### Прикасался к таким технологиям - как:
 <li>Tailwind CSS</li>
 <li>NextJS</li>
@@ -61,6 +73,7 @@
 <li>Ant Design</li>
 <li>Docker</li>
 <li>Kafka</li>
+<li>SQL</li>
 
 ### CodeWars
 
