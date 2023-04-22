@@ -81,6 +81,8 @@
 <li>SQL</li>
 <li>node-telegram-bot-api</li>
 
-### CodeWars
+### Отдельно для себя изучаю Bash и кибербезопасность
+
+### Мой CodeWars
 
 ![CodeWars](https://www.codewars.com/users/Lucker_hns/badges/large)
