@@ -1,5 +1,7 @@
 <h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 1 год и 2 месяца, а также я являюсь студентом 3 курса</h1>
 
+<b>В данный момент создаю Fullstack сайт для личных целей и в качестве практики</b>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=F7E111&width=435&lines=%D0%AF+Web+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+!)](https://git.io/typing-svg)
 
 ### Моя рабочая среда:
@@ -69,6 +71,7 @@
   <li>Ответственность</li>
 
 ### Прикасался к таким технологиям - как:
+
 <li>Tailwind CSS</li>
 <li>NextJS</li>
 <li>NestJS</li>
@@ -76,6 +79,7 @@
 <li>Docker</li>
 <li>Kafka</li>
 <li>SQL</li>
+<li>node-telegram-bot-api</li>
 
 ### CodeWars
 
