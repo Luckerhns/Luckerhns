@@ -46,23 +46,27 @@
   <li>Диаграммы классов</li>
   <li>Макета визуальной части сайта</li>
 
-### Присутствует опыт в создании:
+### За время изучений и практики преуспел в:
 
-  <li>Нескольких плагинов на чистом JavaScript</li> 
-  <li>Сборки Webpack и ESBuild с нуля</li> 
-  <li>Конструктора-сайта на чистом JavaScript</li> 
-  <li>RestAPI + CRUD с нуля</li> 
-  <li>Авторизации по JsonWebToken с подтверждением по почте</li>
-  <li>Небольшого сервиса на TypeScript </li>
+  <li>Создании нескольких плагинов на чистом JavaScript</li> 
+  <li>Сборки Webpack с нуля</li> 
+  <li>Создании конструктора-сайта на чистом JavaScript</li> 
+  <li>Создании RestAPI + CRUD с нуля</li> 
+  <li>Создании авторизации по JsonWebToken с подтверждением по почте</li>
+  <li>Написании небольшого сервиса на TypeScript</li>
+
+### Так-же есть опыт в:
+
+<li>Написании полноценного сайта с нуля с деплоем на облачный сервер и настройкой конфига Nginx</li>
+<li>Дописания нескольких страниц для сайта в на NextJS к рабочему проекту в качестве практики</li>
   
 ### Уровень знаний Front-end: 
 
-  <li>Function & Class Components, Main hooks</li>
+  <li>Function & Class Components, Hooks</li>
   <li>Умею работать с массивами и их методами, объектами, циклами</li>
   <li>JavaScript - ES7+ && TypeScript</li>
   <li>Верстка CSS/SCSS</li>
   <li>NextJS / ReactJS</li>
-
 
 ### Из личных качеств: 
 
@@ -75,8 +79,6 @@
 <li>Tailwind CSS</li>
 <li>NestJS</li>
 <li>Ant Design</li>
-<li>Docker</li>
-<li>Kafka</li>
 <li>SQL</li>
 <li>node-telegram-bot-api</li>
 
