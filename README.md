@@ -1,7 +1,5 @@
 <h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 3 года. Имею опыт в разработке 2 года и учусь на IT направлении на 4 курсе</h1>
 
-<b>В данный момент создаю Fullstack сайт для личных целей и в качестве практики</b>
-
 ### Моя рабочая среда:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -81,6 +79,11 @@
 <li>Ant Design</li>
 <li>SQL</li>
 <li>node-telegram-bot-api</li>
+
+### Мои контакты:
+
+(https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) https://t.me/mamedovv2200
+
 
 ### Мой CodeWars
 
