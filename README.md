@@ -2,12 +2,11 @@
 
 <b>В данный момент создаю Fullstack сайт для личных целей и в качестве практики</b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=F7E111&width=435&lines=%D0%AF+Web+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+!)](https://git.io/typing-svg)
 ### Моя рабочая среда:
 
 (https://icons8.com/icon/55496/markdown)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Macos-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![MacOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
