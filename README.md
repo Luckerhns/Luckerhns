@@ -1,4 +1,4 @@
-<h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 3 года. Имею опыт в разработке 2 года и учусь на IT направлении на 4 курсе</h1>
+<h1>Приветствую на моем Github, меня зовут Макс, я занимаюсь изучением Front-end 3 года. Имею опыт в разработке 2 года и образование по специальности IT</h1>
 
 ### Моя рабочая среда:
 
@@ -82,7 +82,7 @@
 
 ### Мои контакты:
 
-<a href="https://t.me/mamedovv2200">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
+<a href="https://t.me/mamed2200">![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)<a/>
 
 
 ### Мой CodeWars
