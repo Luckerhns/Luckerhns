@@ -9,7 +9,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-
 ### В своих изучениях и постоянной практике, я делаю упор на такие навыки - как :
 
 - 🧼 Трудолюбие и упорство.
@@ -79,6 +78,12 @@
 <li>Ant Design</li>
 <li>SQL</li>
 <li>node-telegram-bot-api</li>
+
+### Так же прикасался к таким языкам как
+
+<li>C#</li>
+<li>Golang</li>
+<li>Python</li>
 
 ### Мои контакты:
 
